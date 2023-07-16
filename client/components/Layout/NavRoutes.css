@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0;
+    
+}
+
+.link{
+ text-decoration: none;
+ color: white;
+
+}
+.link:active{
+    background-color: #444e57;
+}
+.link:visited{
+    background-color: #444e57;
+}
+.link:hover{
+    color: white;
+}

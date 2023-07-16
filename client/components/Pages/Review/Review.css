@@ -1,0 +1,12 @@
+.review{
+    flex: 4;
+    padding: 20px;
+}
+.reviewTitleContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .reviewTitle{
+      padding-left: 5px;
+  }

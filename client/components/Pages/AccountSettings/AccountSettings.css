@@ -1,0 +1,31 @@
+.account{
+    flex: 4;
+    padding: 20px;
+}
+
+.basicinfo{
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.group{
+    padding: 5px;
+}
+
+.group>label{
+    padding-top: 15px;
+}
+
+.passwordinfo{
+    padding: 20px;
+    margin: 20px;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+}
+
+.btn1{
+    left: 650px;
+    top: 10px;
+}

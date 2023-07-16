@@ -1,0 +1,60 @@
+.widgetl{
+    flex: 1;
+    -webkit-box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
+  padding: 20px;
+}
+
+.widgetltitle{
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.widgetlimg{
+  font: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.widgetllist{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.widgetllistitem{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px 0px;
+}
+
+.widgetluser{
+  display: flex;
+  flex-direction: column;
+}
+
+.widgetlusername{
+  font-weight: 600;
+}
+
+.widgetlusermail{
+  font-weight: 300;
+}
+
+.widgetlbtn{
+  display: flex;
+  align-items: center;
+  border: none;
+  border-radius: 10px;
+  padding: 7px 10px;
+  background-color: #eeeef7;
+  color: #555;
+  cursor: pointer;
+}
+
+.widgetlicon{
+  font-size: 16px !important;
+  margin-right: 5px;
+}

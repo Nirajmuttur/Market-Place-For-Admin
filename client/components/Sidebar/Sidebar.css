@@ -1,0 +1,65 @@
+.sidebar{
+    flex:1;
+    height: calc(100vh-50px);
+    background-color: #52616B;
+    position: sticky;
+    top: 50px;
+}
+
+.sidebarwrapper{
+    padding: 20px;
+    color: #F0F5F9;
+}
+
+.sidebarmenu{
+    margin-bottom: 10px;
+}
+
+.sidebartitle{
+    font-size: 13px;
+    color: #F0F5F9;
+}
+
+.sidebarlist{
+    list-style: none;
+    padding: 5px;
+}
+
+.sidebarlistitem{
+    cursor: pointer;
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.sidebarlistitem.active,.sidebarlistitem:hover{
+    background-color: #444e57;
+}
+
+.sidebaricon{
+    margin-right: 5px;
+    font-size: 20px !important;
+}
+
+.menuitembtn{
+    background: none;
+	color: inherit;
+    border: none;
+    padding: 5px;
+    margin-left: 30px;
+}
+
+.menubtn{
+    background: none;
+	color: inherit;
+    border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+.dropdownicon{
+    margin-left: 50px;
+}
