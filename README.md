@@ -17,6 +17,16 @@ This is this the web application for admin. The user side of this application [M
 - Authentication using firebase
 
 
+## Tech Stack
+
+**Client:** React, MaterialUI
+
+**Server:** Node, Express
+
+**Authentication:** Firebase
+
+**Database:** MySQL
+
 ## How to run this code
 
 1. Clone this repository
